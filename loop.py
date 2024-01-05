@@ -1,4 +1,5 @@
 # print my name 10 times
-
-for i in range(1, 20):
-    print(1)
+i = 0
+while i < 10:
+    print(i)
+    i += 1
